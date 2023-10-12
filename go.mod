@@ -1,4 +1,4 @@
-module xk6-box
+module github.com/unofficialbox/xk6-box
 
 go 1.21.2
 
