@@ -19,6 +19,7 @@ sample-files/
 *.csv
 *.html
 k6
+.DS_Store
 
 # Go workspace file
 go.work
